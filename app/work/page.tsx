@@ -3,7 +3,6 @@
 import React, { useState } from "react";
 import { ArrowUpRight } from "lucide-react";
 import { PageTransition } from "@/components/PageTransition";
-import { SectionHeading } from "@/components/SectionHeading";
 import { RevealElement } from "@/components/RevealElement";
 import { ContactCTA } from "@/components/ContactCTA";
 import { caseStudiesData } from "@/data/work";

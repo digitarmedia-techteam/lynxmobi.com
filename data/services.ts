@@ -267,4 +267,54 @@ export const servicesData: ServiceItem[] = [
       "Comprehensive creative retention and conversion teardown",
     ],
   },
+
+  // Legacy compatibility entry for global-media
+  {
+    id: "global-media",
+    slug: "global-media",
+    number: "06",
+    title: "Global Media Access",
+    shortTitle: "Global Media",
+    subtitle: "Seamless Global Platforms & VIP Ad Account Onboarding",
+    tagline: "Direct authorized access to top-tier and emerging global media networks through a single unified platform.",
+    heroDescription:
+      "Seamless global media access through a single platform. We assist clients with flexible ad account onboarding, VIP policy approvals, and stable, efficient launches across major international giants and high-growth emerging networks.",
+    overview:
+      "As an authorized agency partner with core qualifications across Google, Meta, TikTok, Kwai, BIGO Ads, MediaGo, Mintegral, Moloco, Xiaomi Ads, and Apple Search Ads, Lynxmobi eliminates long approval wait times and mitigates account suspensions. We provide international advertisers with diversified user acquisition pipelines across 200+ countries.",
+    keyStats: [
+      { value: "200+", label: "Countries & Geographic Regions" },
+      { value: "24h", label: "Fast-Track Account Opening" },
+      { value: "99.8%", label: "Account Health & Uptime Rate" },
+      { value: "30+", label: "Direct Media Network Partnerships" },
+    ],
+    capabilities: [
+      {
+        title: "VIP Ad Account Opening & Whitelisting",
+        description:
+          "Direct agency channels ensuring rapid approval times, elevated credit limits, and VIP compliance support on Google, Meta, TikTok, Kwai, and BIGO Ads.",
+      },
+      {
+        title: "Emerging Media & OEM Channel Access",
+        description:
+          "Expanding UA beyond saturated platforms by tapping into high-performing alternative networks, mobile OEM stores, and CTV inventory worldwide.",
+      },
+      {
+        title: "Single-Platform Centralized Operations",
+        description:
+          "Manage, fund, and allocate budgets across multiple global ad platforms through a unified financial and operational dashboard.",
+      },
+      {
+        title: "Compliance & Account Health Guardianship",
+        description:
+          "Proactive policy guidance, pre-review creative auditing, and dedicated account managers to maintain spotless account standing.",
+      },
+    ],
+    partners: ["Google Premier Partner", "Meta Business Partner", "TikTok for Business", "BIGO Ads", "Kwai", "MediaGo", "Mintegral", "Moloco", "Apple Search Ads"],
+    deliverables: [
+      "Fast-track verified ad accounts across all major networks",
+      "Unified multi-currency funding and invoicing",
+      "Localized policy pre-screening and appeal escalation",
+      "Cross-network media planning and allocation roadmaps",
+    ],
+  },
 ];

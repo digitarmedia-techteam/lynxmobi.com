@@ -19,7 +19,6 @@ import {
   ChevronRight,
   Database,
   Eye,
-  RefreshCw,
   ExternalLink,
 } from "lucide-react";
 import { PageTransition } from "@/components/PageTransition";

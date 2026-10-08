@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { ArrowUpRight, Globe, Award, Sparkles, Building2 } from "lucide-react";
+import { ArrowUpRight, Globe, Building2 } from "lucide-react";
 import { PageTransition } from "@/components/PageTransition";
 import { SectionHeading } from "@/components/SectionHeading";
 import { RevealElement } from "@/components/RevealElement";

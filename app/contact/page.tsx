@@ -6,7 +6,6 @@ import { PageTransition } from "@/components/PageTransition";
 import { SectionHeading } from "@/components/SectionHeading";
 import { RevealElement } from "@/components/RevealElement";
 import { navigationConfig } from "@/data/navigation";
-import { companyData } from "@/data/company";
 
 interface FormData {
   firstName: string;
